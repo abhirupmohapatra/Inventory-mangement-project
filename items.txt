@@ -1,0 +1,10 @@
+5,veg pizza,100
+2,garlic bread,200
+3,chicken pizza,450
+5,hot chocolate cake,80
+23,momo,90
+
+6,popcorn,50
+
+7,chili paneer,200
+8,chili pasta,100
